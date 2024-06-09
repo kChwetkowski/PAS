@@ -1,0 +1,3 @@
+INFO:root:Serwer nas³uchuje na 127.0.0.1:6666 o 2024-06-09 15:49:23.821565
+INFO:root:Serwer nas³uchuje na 127.0.0.1:6666 o 2024-06-09 15:49:58.540202
+2024-06-09 15:52:06,506 Serwer nas³uchuje na 127.0.0.1:6666
